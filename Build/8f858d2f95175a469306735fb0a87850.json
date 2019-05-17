@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ritchie-playground-adventure",
+"dataUrl": "d1b7db4a62e12ba372d3d3a0a40b9237.unityweb",
+"wasmCodeUrl": "eeb941938794a0835e08b79824edbc5b.unityweb",
+"wasmFrameworkUrl": "c6e4cf1f915774c3173b1e7bbd8406b0.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
